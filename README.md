@@ -4,8 +4,8 @@ Help Sally restore her favorite portrait which was damaged with noise, distorsio
 The modules used:
 
   - Transform: rotate
-  - Restoration
-   - denoise_tv_chambolle
-   - inpaint
+  - Restoration:
+    - denoise_tv_chambolle
+    - inpaint
   - Util: random_noise
   - Feature: Cascade
