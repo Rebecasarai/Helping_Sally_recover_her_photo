@@ -9,3 +9,6 @@ The modules used:
     - inpaint
   - Util: random_noise
   - Feature: Cascade
+  
+  
+  Learn moe about image processing in my course: https://www.datacamp.com/courses/image-processing-in-python?tap_a=5644-dce66f&tap_s=701576-ebd77d&utm_medium=affiliate&utm_source=rebecagonzalez
